@@ -2,7 +2,7 @@
 Binary classification problem using linear, kernelized, and tree decision methods on college admissions data.
 
 ### Why?
-See [this](https://andw.me/blog/sat_gpa)
+See [this](https://andw.me/posts/sat_gpa)
 
 ### Usage
 
